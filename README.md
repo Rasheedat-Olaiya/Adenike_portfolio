@@ -11,6 +11,11 @@
 
 This data analysis project aims to provide insights into the sales performanec of an e-commerce company over the past year. By analyzing various aspect of the sales data, we seek to identify trends, make data driven recommendations, and gain a deeper understanding of the company's performance.
 
+[Dashboard](Dashboard.PNG)
+<img width="1470" alt="Dashboard" src="https://github.com/Rasheedat-Olaiya/Adenike_portfolio/assets/113972215/8b351f0d-017c-4b34-91e9-a2364cfc13ef">
+
+
+
 ### Data Sources
 
 Sales Data: the Primary dataset used for this analysis is the "Sales_data.csv" file, comparing information on profit and sales made by the company.
