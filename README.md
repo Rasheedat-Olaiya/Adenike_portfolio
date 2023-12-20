@@ -8,6 +8,7 @@
 
 
 ### Project Overview
+---
 
 This data analysis project aims to provide insights into the sales performanec of an e-commerce company over the past year. By analyzing various aspect of the sales data, we seek to identify trends, make data driven recommendations, and gain a deeper understanding of the company's performance.
 
@@ -74,4 +75,7 @@ I had to remove all null values  and duplicates from the table because they woul
 
 - [YouTube](https://www.youtube.com/watch?v=eaSg0mu6nLM)
 
-  
+  😄
+
+  💻
+
