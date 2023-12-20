@@ -4,7 +4,7 @@
 
 - [project Overview](#project-overview)
 - [Data Sources](#data-sources)
-- [Recommendation](#recommendation)
+- [Recommendations](#recommendations)
 
 
 ### Project Overview
@@ -56,7 +56,7 @@ The analysis results are summarized as follows:
 3. California has the highest product sales.
 
 
-### Recommendation
+### Recommendations
 
 
 Based on the analysis, we recommend the following actions:
