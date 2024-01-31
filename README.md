@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [project Overview](#project-overview)
+- [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Recommendations](#recommendations)
 
@@ -28,7 +28,7 @@ Sales Data: the Primary dataset used for this analysis is the "Sales_data.csv" f
 
 ### Data Cleaning and Preparation
 
-In the initial data preparation phase, we performed the following tasks:
+In the initial data preparation phase, I performed the following tasks:
 1. Data Loading and Inspection,
 2. Removing duplicaties and null values,
 3. Data cleaning and formatting.
@@ -62,7 +62,7 @@ The analysis results are summarized as follows:
 Based on the analysis, we recommend the following actions:
 - Focus on expanding and promoting products across various categories and segments.
 - Invest in marketing and promotions in the early quarter of the year to maximize profit.
-- Implement a customer segmentation strtegy to target high-LTV customers effectively.
+- Implement a customer segmentation strategy to target high-LTV customers effectively.
 
 
 ### Limitations
